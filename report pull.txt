@@ -1,0 +1,3 @@
+pull requests are a mechanism for a developer to notify team members that they have completed a feature.
+ Once their feature branch is ready, the developer files a pull request via their Bitbucket account. 
+This lets everybody involved know that they need to review the code and merge it into the master branch.
